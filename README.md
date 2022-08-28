@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Thiemo! 👋
+
+Living in [Basel](https://goo.gl/maps/pFf6nyukSsfLc4Wv7) 🇨🇭, working for [University Hospital Basel](https://www.unispital-basel.ch) <img src="https://www.unispital-basel.ch/typo3conf/ext/sitepackage/theme/preset/image/favicon.ico" alt="" width="16" width="16" />. 
 
 <!--
 **thiemo/thiemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
